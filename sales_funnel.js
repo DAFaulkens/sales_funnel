@@ -1,4 +1,4 @@
 (function() {
-   console.log('I');
+   console.log('I am');
 }
 )(jQuery)
